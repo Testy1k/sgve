@@ -1,0 +1,89 @@
+{
+  "vouchPrefix": "+",
+  "negVouchPrefix": "-v",
+  "genPrefix": ".",
+  "helpPrefix": "=",
+  "genChannel": "1158789393285402667",
+  "genCooldown": 1,
+  "fgenChannel": "1158789208660529234",
+  "fgenCooldown": 1,
+  "bgenChannel": "1158789535996596335",
+  "bgenCooldown": 1,
+  "basichannelid": "1196088697477677066",
+  "egenChannel": "1199173754249560124",
+  "epayoutChannel": "1199174167300419705",
+  "epayroleId": "1199350300214046890",
+  "gif": "https://media.discordapp.net/attachments/1193154507270541332/1194508903673761862/standard.gif?ex=65b09c1b&is=659e271b&hm=68fad29ae6a62047e0ffd81a8051da8b1b32ce9349128adbf433aad966d9f671&=&width=585&height=75",
+  "color": {
+    "green": "0x57F287",
+    "yellow": "0xFEE75C",
+    "red": "0xED4245",
+    "default": "0x5865F2"
+  },
+  "token": "MTE5NDQ5ODUwNTYzMzQzMTU3Mg.GiWeuH.FRF3-ZulVjW1DKhjMnhYbc3vQZO5NkhtcVE8OA",
+  "adminUserIds": [
+    "1129453348194631740",
+    "1172508751077576795",
+    "796284109349322752"
+  ],
+  "command": {
+    "notfound_message": true,
+    "error_message": true
+  },
+  "restockroleid": "1195717615558078587",
+  "specifiedRoleIds": [
+    "1158960877823860788",
+    "1194498009149476985",
+    "1158960877823860788",
+    "1194506771700662303",
+    "1194561332104675369",
+    "1194561080106688603",
+    "1158744686094209044",
+    "1158368502818807850"
+  ],
+  "promotionChannelId": "1158365393564467231",
+  "staffRoleIds": [
+    "1158960877823860788",
+    "1194498009149476985",
+    "1158960877823860788",
+    "1194506771700662303",
+    "1194561332104675369",
+    "1194561080106688603",
+    "1158744686094209044",
+    "1158368502818807850"
+  ],
+  "cookiesendroles": [
+    "1194498009149476985",
+    "1158960877823860788",
+    "1194506771700662303",
+    "1194561332104675369",
+    "1194561080106688603",
+    "1158744686094209044",
+    "1158368502818807850"
+  ],
+  "purgeroleids": [
+    "1158960877823860788",
+    "1194506771700662303",
+    "1194561332104675369",
+    "1194561080106688603",
+    "1158744686094209044",
+    "1158368502818807850"
+  ],
+  "nukeroleids": [
+    "1158368502818807850",
+    "1158744686094209044"
+  ],
+  "stockid": "1196088419521151107",
+  "checkLogsChannel": "1195417352334999553",
+  "dropChannelId": "1158026577054007296",
+  "vouchChannelId": "1197839912146321498",
+  "logsChannelId": "1198169215862050838",
+  "autoRoleTiers": [
+      { "threshold": 20, "roleID": "1194498009149476985" },
+      { "threshold": 60, "roleID": "1194506771700662303" },
+      { "threshold": 100, "roleID": "1194561332104675369" }
+  ],
+  "serverName": "GALAXY G3N",
+  "link": "https://link-hub.net/1090286/galaxy-gen-verify1",
+  "dropSessionActive": false
+}
